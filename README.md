@@ -6,4 +6,6 @@
 
 * Uipath.com. (2023). <br/> Available at: [link](https://docs.uipath.com/activities/other/latest/workflow/for-each-row) [Accessed 12 Oct. 2023].
 
+‌* McKenzie, C. (2020). UiPath For Each Row Example. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=5A61BQJlRws) [Accessed 12 Oct. 2023].
+
 ‌
