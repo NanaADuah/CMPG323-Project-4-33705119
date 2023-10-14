@@ -114,6 +114,7 @@
       <AssemblyReference>UiPath.CV</AssemblyReference>
       <AssemblyReference>UiPath.UIAutomationNext.Activities.Design</AssemblyReference>
       <AssemblyReference>UiPath.CV.Activities</AssemblyReference>
+      <AssemblyReference>GlobalVariablesT1PNoYwrqg</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="944,6015" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -753,9 +754,9 @@
                                         </uix:TargetAnchorable>
                                       </uix:NClick.Target>
                                     </uix:NClick>
-                                    <ui:SetWebAttribute ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" Attribute="outerhtml" DisplayName="Set Web Attribute 'INPUT  OrderDate'" sap:VirtualizedContainerService.HintSize="434,208" sap2010:WorkflowViewState.IdRef="SetWebAttribute_1" Value="[dateStringVar]">
+                                    <ui:SetWebAttribute Attribute="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" Value="{x:Null}" DisplayName="Set Web Attribute 'INPUT  OrderDate'" sap:VirtualizedContainerService.HintSize="434,208">
                                       <ui:SetWebAttribute.Target>
-                                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="19949d1c-1ec2-4f68-add2-c8b6bf4c66b1" InformativeScreenshot="303e1dff62c7aa0acd816dbc13a77625" Selector="&lt;webctrl id='OrderDate' tag='INPUT' /&gt;">
+                                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="48495f75-b6cf-46b8-b093-502fbea425a2" InformativeScreenshot="d788fbee88d7598dde2395d80d49f348" Selector="&lt;webctrl id='OrderDate' tag='INPUT' /&gt;">
                                           <ui:Target.TimeoutMS>
                                             <InArgument x:TypeArguments="x:Int32" />
                                           </ui:Target.TimeoutMS>
