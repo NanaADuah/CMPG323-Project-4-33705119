@@ -17,6 +17,6 @@
 * UiPath Community Forum. (2022). Get Date in Input Dialog And Control of Date. [online]  <br/>Available at: [link](https://forum.uipath.com/t/get-date-in-input-dialog-and-control-of-date/442809) [Accessed 14 Oct. 2023].
 
 * UiPath Community Forum. (2017). Parse Date Activity. [online]  <br/>Available at: [link](https://forum.uipath.com/t/parse-date-activity/2133) [Accessed 14 Oct. 2023].
+* Simplilearn (2021). UiPath Orchestrator Complete Tutorial 2021 | UiPath Tutorial | Simplilearn. YouTube. <br/>Available at: [link](https://www.youtube.com/watch?v=z3p5hmPsGdU) [Accessed 14 Oct. 2023].
 
-‌
 ‌
