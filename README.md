@@ -15,8 +15,14 @@
 * UiPath Community Forum. (2023). Read each cell in row in excel online one drive. [online] <br/>Available at: [link](https://forum.uipath.com/t/read-each-cell-in-row-in-excel-online-one-drive/538035/7) [Accessed 13 Oct. 2023].
 
 * UiPath Community Forum. (2022). Get Date in Input Dialog And Control of Date. [online]  <br/>Available at: [link](https://forum.uipath.com/t/get-date-in-input-dialog-and-control-of-date/442809) [Accessed 14 Oct. 2023].
+  
+* UiPath Community Forum. (2017). Parse Date Activity. [online]  <br/>Available at: [link](https://forum.uipath.com/t/parse-date-activity/2133) [Accessed 14 Oct. 2023].
 
-*‌ UiPath Community Forum. (2017). Parse Date Activity. [online]  <br/>Available at: [link](https://forum.uipath.com/t/parse-date-activity/2133) [Accessed 14 Oct. 2023].
+* AutoBot by Rahul (2022). Date Picker Automation using UiPath | How to select the required date in the calendar with UiPath? YouTube.<br/> Available at:f[link](https://www.youtube.com/watch?v=fLjg3g_6STs) [Accessed 14 Oct. 2023].
+  
+* RPA Engineers (2020). UiPath - Convert String to DateTime. [online] Finessetalks.com. <br/>Available at: [link](https://www.finessetalks.com/2020/07/uipath-convert-string-to-datetime.html) [Accessed 14 Oct. 2023].
+
+* UiPath Community Forum. (2020). How to select date from date picker? [online] <br/>Available at: [link](https://forum.uipath.com/t/how-to-select-date-from-date-picker/224797/8) [Accessed 14 Oct. 2023].
 
 ‌
 ‌
