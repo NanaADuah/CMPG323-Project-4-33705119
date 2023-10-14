@@ -14,6 +14,9 @@
 
 * UiPath Community Forum. (2023). Read each cell in row in excel online one drive. [online] <br/>Available at: [link](https://forum.uipath.com/t/read-each-cell-in-row-in-excel-online-one-drive/538035/7) [Accessed 13 Oct. 2023].
 
-‌
+* UiPath Community Forum. (2022). Get Date in Input Dialog And Control of Date. [online]  <br/>Available at: [link](https://forum.uipath.com/t/get-date-in-input-dialog-and-control-of-date/442809) [Accessed 14 Oct. 2023].
 
+*‌ UiPath Community Forum. (2017). Parse Date Activity. [online]  <br/>Available at: [link](https://forum.uipath.com/t/parse-date-activity/2133) [Accessed 14 Oct. 2023].
+
+‌
 ‌
