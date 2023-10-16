@@ -1,5 +1,33 @@
 ## CMPG324 - Project 4
 
+Table of Contents
+1. [Introduction](#introduction)
+2. [References](#references)
+
+# Introduction
+Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
+
+# Requirements
+## Functional Requirements
+Functional requirements are the core functionalities that the RPA solution should have:
+
+Data Input: The automation must be able to input data records from the provided Excel file into the web application's fields.
+
+Validation: The solution should validate that the desired output matches the expected results after data input.
+
+Logging: Implement a logging mechanism to record the test results and any errors encountered during the testing process.
+
+## Non-Functional Requirements
+Non-functional requirements are essential to ensure that the RPA solution meets quality standards:
+
+Reliability: The automation should be reliable, accurately performing tests without errors.
+
+Efficiency: The RPA solution should complete UAT in a timely and efficient manner, saving time and effort.
+
+Scalability: Ensure that the automation is easily adaptable to handle additional test cases or changes in the web application.
+
+Robustness: The solution should handle unexpected errors gracefully and provide informative error messages.
+
 # References
 
 * UIpath RPA Learners (2022). #Uipath #Exceldata #datatable Uipath : How to read excel data and store into Data table. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=5r1cBumKSi4) [Accessed 12 Oct. 2023].
@@ -17,6 +45,16 @@
 * UiPath Community Forum. (2022). Get Date in Input Dialog And Control of Date. [online]  <br/>Available at: [link](https://forum.uipath.com/t/get-date-in-input-dialog-and-control-of-date/442809) [Accessed 14 Oct. 2023].
 
 * UiPath Community Forum. (2017). Parse Date Activity. [online]  <br/>Available at: [link](https://forum.uipath.com/t/parse-date-activity/2133) [Accessed 14 Oct. 2023].
-* Simplilearn (2021). UiPath Orchestrator Complete Tutorial 2021 | UiPath Tutorial | Simplilearn. YouTube. <br/>Available at: [link](https://www.youtube.com/watch?v=z3p5hmPsGdU) [Accessed 14 Oct. 2023].
 
+* UiPath (2019). How to get current date time in specific format. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/how-to-get-current-date-time-in-specific-format/151496/2) [Accessed 16 Oct. 2023].
+‌
+* Simplilearn (2021). UiPath Orchestrator Complete Tutorial 2021 | UiPath Tutorial | Simplilearn. YouTube. <br/>Available at: [link](https://www.youtube.com/watch?v=z3p5hmPsGdU) [Accessed 14 Oct. 2023].
+  
+* Uipath.com. (2023). <br/> Available at: [link](https://docs.uipath.com/studio/standalone/2021.10/user-guide/example-of-using-a-date-and-time-variable) [Accessed 16 Oct. 2023].
+
+* UiPath Community Forum. (2020). String is not recognized as a valid datetime. [online] <br/>Available at: [link](https://forum.uipath.com/t/string-is-not-recognized-as-a-valid-datetime/193723/10) [Accessed 16 Oct. 2023].
+
+‌
+
+‌
 ‌
