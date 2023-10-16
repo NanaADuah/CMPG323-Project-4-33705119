@@ -1,10 +1,10 @@
 # CMPG324 - Project 4 - 33705119
+![PATH_BIG D](https://github.com/NanaADuah/CMPG323-Project-4-33705119/assets/48721153/30811036-40c3-4dd9-b4c1-b91ee71b567d)
 
 # Table of Contents
 1. [Introduction](#introduction)
 2. [References](#references)
 
-<img src="https://badgen.net/badge/ASP.NET/API/?icon=uipathstudio"></img>
 # Introduction
 Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
 
@@ -28,6 +28,7 @@ Efficiency: The RPA solution should complete UAT in a timely and efficient manne
 Scalability: Ensure that the automation is easily adaptable to handle additional test cases or changes in the web application.
 
 Robustness: The solution should handle unexpected errors gracefully and provide informative error messages.
+
 
 # References
 
@@ -54,6 +55,10 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 * Uipath.com. (2023). <br/> Available at: [link](https://docs.uipath.com/studio/standalone/2021.10/user-guide/example-of-using-a-date-and-time-variable) [Accessed 16 Oct. 2023].
 
 * UiPath Community Forum. (2020). String is not recognized as a valid datetime. [online] <br/>Available at: [link](https://forum.uipath.com/t/string-is-not-recognized-as-a-valid-datetime/193723/10) [Accessed 16 Oct. 2023].
+
+* UiPath Inc (2018). What is Robotic Process Automation - RPA Software | UiPath. [online] Uipath.com. <br/>Available at: [link](https://www.uipath.com/rpa/robotic-process-automation) [Accessed 16 Oct. 2023].
+
+‌
 
 ‌
 
