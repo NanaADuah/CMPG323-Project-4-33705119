@@ -60,6 +60,13 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 
 * Madalina Boboc (2021). Excel Automation Tutorial - DataTables Automation | UiPath. [online] Uipath.com. <br/>Available at: [link](https://www.uipath.com/learning/video-tutorials/excel-datatables-automation) [Accessed 16 Oct. 2023].
 
+* UiPath (2019). Ui Path Orchestrator Training: No runtime resource allocated. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/ui-path-orchestrator-training-no-runtime-resource-allocated/111972) [Accessed 16 Oct. 2023].
+* UiPath (2022). Runtime Type. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/runtime-type/464486) [Accessed 16 Oct. 2023].
+
+‌
+
+‌
+
 ‌
 
 ‌
