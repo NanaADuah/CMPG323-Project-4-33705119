@@ -58,6 +58,8 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 
 * UiPath Inc (2018). What is Robotic Process Automation - RPA Software | UiPath. [online] Uipath.com. <br/>Available at: [link](https://www.uipath.com/rpa/robotic-process-automation) [Accessed 16 Oct. 2023].
 
+* Madalina Boboc (2021). Excel Automation Tutorial - DataTables Automation | UiPath. [online] Uipath.com. <br/>Available at: [link](https://www.uipath.com/learning/video-tutorials/excel-datatables-automation) [Accessed 16 Oct. 2023].
+
 ‌
 
 ‌
