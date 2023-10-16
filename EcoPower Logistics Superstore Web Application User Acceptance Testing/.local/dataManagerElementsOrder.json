@@ -1,0 +1,102 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "notLoggedIn&Sequence_1",
+        "dateStringVar&Sequence_49",
+        "customerExists&Sequence_54",
+        "productsExist&Sequence_54",
+        "orderExists&Sequence_54",
+        "currentDate&Sequence_49",
+        "excelFileExists&Sequence_47",
+        "dt_ExcelData&Sequence_48",
+        "productsExist&Sequence_32",
+        "customerExists&Sequence_32",
+        "excelFileExists&Sequence_33",
+        "dt_ExcelData&Sequence_34",
+        "credentials&Sequence_28",
+        "loggedIn&Sequence_28",
+        "customerExists&Sequence_29",
+        "excelFileExists&Sequence_30",
+        "dt_ExcelData&Sequence_31",
+        "filePath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Login Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "credentials&Sequence_24",
+        "loginButtonVisible&Sequence_23"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Customer Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "customerTitle&Sequence_17",
+        "excelFileExists&Sequence_9",
+        "gottenNumber&Sequence_12",
+        "customerExists&Sequence_9",
+        "dt_ExcelData&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Product Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "newStockUnits&Sequence_11",
+        "productExist&Sequence_2",
+        "excelFileExists&Sequence_3",
+        "dt_ExcelData&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Order Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "excelFileExists&Sequence_15",
+        "orderExist&Sequence_2",
+        "dt_ExcelData&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OrderDetails Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "randomDiscount&Sequence_14",
+        "excelFileExists&Sequence_2",
+        "productExist&Sequence_2",
+        "dt_ExcelData&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -20,7 +20,11 @@ namespace EcoPowerLogisticsSuperstoreWebApplicationUserAcceptanceTesting
     {
         public CodedWorkflow()
         {
+<<<<<<< Updated upstream
             _ = new System.Type[]{typeof(UiPath.Core.Activities.API.ISystemService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService), typeof(UiPath.Testing.API.ITestingService)};
+=======
+            _ = new System.Type[]{typeof(UiPath.Core.Activities.API.ISystemService), typeof(UiPath.Testing.API.ITestingService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService)};
+>>>>>>> Stashed changes
         }
 
         protected UiPath.Core.Activities.API.ISystemService system { get => serviceContainer.Resolve<UiPath.Core.Activities.API.ISystemService>(); }
@@ -35,6 +39,12 @@ namespace EcoPowerLogisticsSuperstoreWebApplicationUserAcceptanceTesting.ObjectR
 {
     public static class Descriptors
     {
+<<<<<<< Updated upstream
+=======
+        public static class Browser
+        {
+        }
+>>>>>>> Stashed changes
     }
 }
 
