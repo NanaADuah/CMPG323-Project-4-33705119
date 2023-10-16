@@ -1,9 +1,10 @@
-## CMPG324 - Project 4
+# CMPG324 - Project 4 - 33705119
 
-Table of Contents
+# Table of Contents
 1. [Introduction](#introduction)
 2. [References](#references)
 
+<img src="https://badgen.net/badge/ASP.NET/API/?icon=uipathstudio"></img>
 # Introduction
 Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
 
