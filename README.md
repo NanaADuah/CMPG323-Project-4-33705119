@@ -61,8 +61,20 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 * Madalina Boboc (2021). Excel Automation Tutorial - DataTables Automation | UiPath. [online] Uipath.com. <br/>Available at: [link](https://www.uipath.com/learning/video-tutorials/excel-datatables-automation) [Accessed 16 Oct. 2023].
 
 * UiPath (2019). Ui Path Orchestrator Training: No runtime resource allocated. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/ui-path-orchestrator-training-no-runtime-resource-allocated/111972) [Accessed 16 Oct. 2023].
+
 * UiPath (2022). Runtime Type. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/runtime-type/464486) [Accessed 16 Oct. 2023].
 
+* Uipath.com. (2023).<br/> Available at: [link](https://docs.uipath.com/orchestrator/standalone/2023.4/user-guide/configuring-robot-accounts-to-run-unattended-automation) [Accessed 17 Oct. 2023].
+
+* RPA Vanguard (2022). UiPath Tutorial: Run Unattended/Background Service Automations with Robot Accounts. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=e_qNZTjB8Cs) [Accessed 17 Oct. 2023].
+  
+* Jensen, A. (2023). UiPath Unattended Robot Setup - Complete Tutorial [2023]. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=xanchLrv2P8) [Accessed 17 Oct. 2023].
+
+* Tutorials by Mukesh Kala (2023). 2023 - UiPath Setup Unattended Robot in Orchestrator Modern Folders | Step By Step | Beginners | RPA. YouTube. <br/>Available at: [link](https://www.youtube.com/watch?v=6Grx5Z5ybEc) [Accessed 17 Oct. 2023].
+
+* Contentraven.com. (2020). Advanced UI Automation with Studio. [online] <br/>Available at: [link](https://html.cdn.contentraven.com/crcloud/crscorm/uploads/uipath_lms_11218/encryptedfile/581251/v1.0/scormcontent/index.html#/lessons/WzGjzSzAsiRjLSnbrmji649syAYE3_61) [Accessed 17 Oct. 2023].
+
+‌
 ‌
 
 ‌
