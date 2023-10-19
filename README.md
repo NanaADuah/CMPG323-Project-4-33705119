@@ -4,7 +4,8 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Link](#link)
-3. [References](#references)
+3. [Requirements](#requirements)
+4. [References](#references)
 
 # Introduction
 Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
