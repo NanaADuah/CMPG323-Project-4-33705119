@@ -73,8 +73,19 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 * Tutorials by Mukesh Kala (2023). 2023 - UiPath Setup Unattended Robot in Orchestrator Modern Folders | Step By Step | Beginners | RPA. YouTube. <br/>Available at: [link](https://www.youtube.com/watch?v=6Grx5Z5ybEc) [Accessed 17 Oct. 2023].
 
 * Contentraven.com. (2020). Advanced UI Automation with Studio. [online] <br/>Available at: [link](https://html.cdn.contentraven.com/crcloud/crscorm/uploads/uipath_lms_11218/encryptedfile/581251/v1.0/scormcontent/index.html#/lessons/WzGjzSzAsiRjLSnbrmji649syAYE3_61) [Accessed 17 Oct. 2023].
+‌
+* ‌UiPath (2020). When I try to RUN the project I receive a below error. Could not find the user-interface (UI) element for this action. [online] UiPath Community Forum. <br/> Available at: [link](https://forum.uipath.com/t/when-i-try-to-run-the-project-i-receive-a-below-error-could-not-find-the-user-interface-ui-element-for-this-action/217245) [Accessed 19 Oct. 2023].
+
+* UiPath (2021). Could not find the user interface element for this action. [online] UiPath Community Forum. <br/>Available at: [link](https://forum.uipath.com/t/could-not-find-the-user-interface-element-for-this-action/356298) [Accessed 19 Oct. 2023].
+
+* Uipath.com. (2023).<br/> Available at: [link](https://docs.uipath.com/activities/other/latest/ui-automation/select-multiple-items) [Accessed 19 Oct. 2023].
+
+* Uipath.com. (2023). <br/>Available at: [link](https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/publishing-an-app-to-a-tenant) [Accessed 19 Oct. 2023].
 
 ‌
+
+‌
+
 ‌
 
 ‌
