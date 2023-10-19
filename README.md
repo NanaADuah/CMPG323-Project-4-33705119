@@ -3,10 +3,15 @@
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [References](#references)
+2. [Link](#link)
+3. [References](#references)
 
 # Introduction
 Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
+
+# Link
+
+The deployed app (using Orchestastrator) can be found at [link](https://cloud.uipath.com/33ce46e3-5791-434a-bc56-f5262193303a/apps_/default/run/production/7b334141-dfd4-4750-8b83-88a3f0525cbd/caaf57ba-db14-4cb1-bcc1-7da6e2a653e7/ID197723d2f0654ef5b5d43655228122ba/public?el=VB&origin=orchestratorFolder)
 
 # Requirements
 ## Functional Requirements
@@ -83,6 +88,8 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 * Uipath.com. (2023). <br/>Available at: [link](https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/publishing-an-app-to-a-tenant) [Accessed 19 Oct. 2023].
 
 * Hub, R. (2022). UiPath Excel Read Range and Write Range Activity | UiPath Tutorial. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=BBSSle2dGiU) [Accessed 19 Oct. 2023].
+
+*  Uipath.com. (2023). <br/>Available at: [link](https://docs.uipath.com/apps/automation-cloud/latest/user-guide/connecting-your-app-to-an-orchestrator-tenant) [Accessed 19 Oct. 2023].
 
 ‌
 
