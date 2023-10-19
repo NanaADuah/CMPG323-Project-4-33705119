@@ -27,14 +27,18 @@ Logging: Implement a logging mechanism to record the test results and any errors
 ## Non-Functional Requirements
 Non-functional requirements are essential to ensure that the RPA solution meets quality standards:
 
-Reliability: The automation should be reliable, accurately performing tests without errors.
 
-Efficiency: The RPA solution should complete UAT in a timely and efficient manner, saving time and effort.
+|Non-functional requirements| Description|
+|---------|--------------|
+|Reliability | The automation should be reliable, accurately performing tests without errors                                   |
+|Efficiency  | The RPA solution should complete UAT in a timely and efficient manner, saving time and effort                   |
+|Scalability | Ensure that the automation is easily adaptable to handle additional test cases or changes in the web application|
+|Robustness  | The solution should handle unexpected errors gracefully and provide informative error messages                  |
 
-Scalability: Ensure that the automation is easily adaptable to handle additional test cases or changes in the web application.
-
-Robustness: The solution should handle unexpected errors gracefully and provide informative error messages.
-
+Usage Instructions
+Run the Automation: Initiate the RPA automation to perform UAT on the web application.
+Review the Results: After the automation completes, review the generated log to check test results and identify issues.
+Repeat as Needed: Run the automation multiple times with different test datasets or scenarios as required.
 
 # References
 
