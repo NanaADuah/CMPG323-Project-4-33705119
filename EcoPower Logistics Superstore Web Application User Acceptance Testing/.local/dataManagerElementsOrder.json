@@ -64,9 +64,8 @@
       "Path": "Product Sequence.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "excelFileExists&Sequence_13",
         "newStockUnits&Sequence_11",
-        "productExist&Sequence_2",
-        "excelFileExists&Sequence_3",
         "dt_ExcelData&Sequence_4"
       ],
       "ArgumentsSectionElementsOrder": [],
@@ -77,6 +76,7 @@
       "Path": "Order Sequence.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "theDate&Sequence_10",
         "excelFileExists&Sequence_15",
         "orderExist&Sequence_2",
         "dt_ExcelData&Sequence_4"
