@@ -82,6 +82,10 @@ Robustness: The solution should handle unexpected errors gracefully and provide 
 
 * Uipath.com. (2023). <br/>Available at: [link](https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/publishing-an-app-to-a-tenant) [Accessed 19 Oct. 2023].
 
+* Hub, R. (2022). UiPath Excel Read Range and Write Range Activity | UiPath Tutorial. YouTube. <br/> Available at: [link](https://www.youtube.com/watch?v=BBSSle2dGiU) [Accessed 19 Oct. 2023].
+
+‌
+
 ‌
 
 ‌
