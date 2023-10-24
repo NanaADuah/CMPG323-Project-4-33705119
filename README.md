@@ -5,7 +5,9 @@
 1. [Introduction](#introduction)
 2. [Link](#link)
 3. [Requirements](#requirements)
-4. [References](#references)
+4. [Usage](#usage)
+5. * [Overview](#overview)
+6. [References](#references)
 
 # Introduction
 Testing is a critical part of the software development process, and User Acceptance Testing (UAT) is a pivotal step that determines whether a solution is ready for production deployment. This automation project focuses on using RPA to expedite the UAT process for the EcoPower Logistics web application.
@@ -27,6 +29,36 @@ Logging: Implement a logging mechanism to record the test results and any errors
 ## Non-Functional Requirements
 Non-functional requirements are essential to ensure that the RPA solution meets quality standards:
 
+# Usage
+
+Access the RPA Solution Locally:
+First, ensure you have installed UiPath Studio Community Edition on your computer. This is the platform where the RPA automation is created and executed.
+
+## Clome the repository:
+Obtain the RPA project files provided for this UAT automation. These files contain the necessary processes, workflowss and configurations.
+
+### Configure Test Data:
+Within the UiPath Studio, the automation is configured to use the Excel file containing the test data. This data will be used to feed the web application during the testing process.
+
+### Run the Automation:
+Execute the RPA automation within UiPath Studio. This will start the testing process.
+
+### Automated Testing:
+The RPA system will automate the following steps on the web application:
+- Input data from the Excel file into the web application's fields.
+- Validate that the output from the application matches the expected results.
+- Log the test results and any errors encountered during the testing process.
+
+### Review the Results:
+After the automation completes, you can review the generated log to assess the test results. This log will provide insights into whether the application is functioning correctly and whether any issues were encountered during testing.
+
+### Iterate as Needed:
+If required, you can run the automation multiple times with different test datasets or scenarios. This allows you to comprehensively test various aspects of the web application.
+
+# Overview
+Run the Automation: Initiate the RPA automation to perform UAT on the web application.
+Review the Results: After the automation completes, review the generated log to check test results and identify issues.
+Repeat as Needed: Run the automation multiple times with different test datasets or scenarios as required.
 
 |Non-functional requirements| Description|
 |---------|--------------|
@@ -35,10 +67,6 @@ Non-functional requirements are essential to ensure that the RPA solution meets 
 |Scalability | Ensure that the automation is easily adaptable to handle additional test cases or changes in the web application|
 |Robustness  | The solution should handle unexpected errors gracefully and provide informative error messages                  |
 
-Usage Instructions
-Run the Automation: Initiate the RPA automation to perform UAT on the web application.
-Review the Results: After the automation completes, review the generated log to check test results and identify issues.
-Repeat as Needed: Run the automation multiple times with different test datasets or scenarios as required.
 
 # References
 
